@@ -1,0 +1,23 @@
+[
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "starred_at": "2026-10-24"
+  },
+  {
+    "name": "torvalds/linux",
+    "description": "Linux kernel source tree.",
+    "url": "https://github.com/torvalds/linux",
+    "language": "C",
+    "starred_at": "2026-10-17"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "language": "Markdown",
+    "starred_at": "2026-10-09"
+  }
+]
